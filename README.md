@@ -28,7 +28,7 @@ Olá! Sou Victor Manuel Chang, estudante de **Ciência da Computação na UFMS**
 Atualmente atuo como **Engenheiro de IA** no **LIA (Laboratório de Inteligência Artificial)**, desenvolvendo soluções com **Deep Learning, LLMs e RAG**.
 Também sou **Engenheiro de Software e MLOps** no **LEDES**, onde aplico práticas de **Lean Inception**, arquitetura de sistemas e **pipelines de CI/CD** para projetos de IA.
 
-Sou **Tech Lead de Infraestrutura** no projeto de parceria entre **UFMS e o Tribunal de Justiça do MS (TJMS)**, liderando o desenvolvimento de um **RAG jurídico** para auxiliar na redação de peças jurídicas — integrando **LLMs, bancos vetoriais e serviços AWS**.
+Sou **Tech Lead de Infraestrutura** no projeto de parceria entre **UFMS e o Tribunal de Justiça do MS (TJMS)**, liderando o desenvolvimento de um **RAG jurídico** para auxiliar na redação de peças jurídicas — integrando **LLMs, bancos vetoriais e backend**.
 
 Fui vencedor do **Hackathon da B3 (Bolsa de Valores do Brasil)** no módulo de Machine Learning, com o desenvolvimento de um **sistema RAG** baseado em documentos da B3, que gera respostas confiáveis e apresenta **scores de confiança** para o usuário.
 

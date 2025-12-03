@@ -7,6 +7,8 @@
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorManuelChang&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorManuelChang&layout=compact&theme=radical)
+
 ### Tecnologias que tenho experiência
 
 <div style="display: inline_block"><br/>

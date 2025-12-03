@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victor-manuel-chang-24aa70291/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:victormanuelchang@gmail.com)
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorManuelChang\&show_icons=true\&theme=radical)
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorManuelChang&show_icons=true&theme=radical)
 
 ### Tecnologias que tenho experiência
 
